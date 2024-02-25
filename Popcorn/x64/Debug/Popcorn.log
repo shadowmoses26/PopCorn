@@ -1,0 +1,5 @@
+﻿  Engine.cpp
+Z:\Work\POPCORN_PROJECT\Popcorn\Popcorn\Engine.cpp(170,8): warning C4101: 'i': unreferenced local variable
+  Main.cpp
+  Generating Code...
+  Popcorn.vcxproj -> Z:\Work\POPCORN_PROJECT\Popcorn\x64\Debug\Popcorn.exe

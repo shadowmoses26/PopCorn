@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Work\\POPCORN_PROJECT\\Popcorn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D61FC7E-9B62-4742-B19D-87249662D41C}|Popcorn\\Popcorn.vcxproj|Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D61FC7E-9B62-4742-B19D-87249662D41C}|Popcorn\\Popcorn.vcxproj|solutionrelative:Popcorn\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D61FC7E-9B62-4742-B19D-87249662D41C}|Popcorn\\Popcorn.vcxproj|Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D61FC7E-9B62-4742-B19D-87249662D41C}|Popcorn\\Popcorn.vcxproj|solutionrelative:Popcorn\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D61FC7E-9B62-4742-B19D-87249662D41C}|Popcorn\\Popcorn.vcxproj|Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D61FC7E-9B62-4742-B19D-87249662D41C}|Popcorn\\Popcorn.vcxproj|solutionrelative:Popcorn\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D61FC7E-9B62-4742-B19D-87249662D41C}|Popcorn\\Popcorn.vcxproj|Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D61FC7E-9B62-4742-B19D-87249662D41C}|Popcorn\\Popcorn.vcxproj|solutionrelative:Popcorn\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.h",
+              "DocumentMoniker": "Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Main.h",
+              "RelativeDocumentMoniker": "Popcorn\\Main.h",
+              "ToolTip": "Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Main.h",
+              "RelativeToolTip": "Popcorn\\Main.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-25T13:21:58.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Engine.cpp",
+              "RelativeDocumentMoniker": "Popcorn\\Engine.cpp",
+              "ToolTip": "Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Engine.cpp",
+              "RelativeToolTip": "Popcorn\\Engine.cpp",
+              "ViewState": "AQIAAJ0BAAAAAAAAAAAAAKYBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-10-28T10:20:31.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Main.cpp",
+              "RelativeDocumentMoniker": "Popcorn\\Main.cpp",
+              "ToolTip": "Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Main.cpp",
+              "RelativeToolTip": "Popcorn\\Main.cpp",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAALoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-12T14:39:03.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.h",
+              "DocumentMoniker": "Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Engine.h",
+              "RelativeDocumentMoniker": "Popcorn\\Engine.h",
+              "ToolTip": "Z:\\Work\\POPCORN_PROJECT\\Popcorn\\Popcorn\\Engine.h",
+              "RelativeToolTip": "Popcorn\\Engine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-12T13:29:27.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
